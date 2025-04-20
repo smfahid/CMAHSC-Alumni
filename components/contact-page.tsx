@@ -35,7 +35,7 @@ const members = [
     email: "rana@gmail.com",
     batch: "2001",
     currentLocation: "Jatrabari, Dhaka",
-    image: "/assets/rana.jpeg",
+    image: "/assets/rana-2.jpeg",
   },
   {
     id: 3,
